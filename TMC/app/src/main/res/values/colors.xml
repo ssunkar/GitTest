@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="lavender">#999999</color>
+    <color name="gray">#808080</color>
+    <color name="lightgray">#BBBBBB</color>
+    <color name="silver">#C0C0C0</color>
+    <color name="gainsboro">#DCDCDC</color>
+    <color name="background">#0044AA</color>
+    <color name="olive">#808000</color>
+    <color name="tcr_green">#82b300</color>
+    <color name="tabsScrollColor">#adff2f</color>
+    <color name="tcr_light_green">#bbe843</color>
+    <color name="lightgreay">#9D9D9D</color>
+
+    <color name="purewhite">#FFFFFF</color>
+    <color name="pureblack">#000000</color>
+    <color name="transparent">#00000000</color>
+    <color name="col1darkpink">#db296c</color>
+    <color name="lightwhite">#FBFFFF</color>
+
+    <color name="colorWhite">#FFFFFF</color>
+    <color name="colorPrimary">#0bb697</color>
+    <color name="colorPrimaryDark">#08866f</color>
+    <color name="colorAccent">#0bb697</color>
+    <color name="colorAccentPressed">#076e5b</color>
+    <color name="colorPurple">#CC99FF</color>
+    <color name="colorYellow">#FFFF00</color>
+    <color name="colorGray">#D8D8D8</color>
+</resources>
